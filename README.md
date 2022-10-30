@@ -1,4 +1,4 @@
-# Bis2Bis Challenge
+CRUD desenvolvido com Docker, Express e MongoDB.
 
 Instruções para executar o projeto:
 
