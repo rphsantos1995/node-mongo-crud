@@ -1,4 +1,24 @@
-CRUD desenvolvido com Docker, Express e MongoDB.
+
+
+CRUD desenvolvido com Docker, Express, Jest e MongoDB.
+
+
+
+<details>
+    <summary><strong>Como funciona?</strong></summary>
+    
+    Uma requisição para o endpoint http://universities.hipolabs.com, retornando todas as universidades 
+    dos países listados em um array. Os dados retornados dessa requisição são armazenados em uma 
+    Coleção no MongoDB que posteriormente poderá ser manipulada através de uma api que utiliza o framework Express. 
+  
+</details>
+
+<details>
+    <summary><strong>Folder structure</strong></summary>
+    
+  ![node-mongo-crud-structure](https://user-images.githubusercontent.com/61982010/198934868-caa416f7-db1c-4e98-89d0-f3849ebbafd5.png)
+  
+</details>
 
 Instruções para executar o projeto:
 
